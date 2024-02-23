@@ -1,24 +1,39 @@
+# MicroBitSnakeGame
 
-> Open this page at [https://emlm244.github.io/microbitsnakegame/](https://emlm244.github.io/microbitsnakegame/)
+Welcome to `MicroBitSnakeGame`, a classic snake game reimagined for the Micro:Bit. This project is perfect for those looking to combine the fun of gaming with the excitement of programming on a Micro:Bit.
 
-## Use as Extension
+## Project Overview
 
-This repository can be added as an **extension** in MakeCode.
+`MicroBitSnakeGame` challenges you to navigate a snake on the Micro:Bit screen, eating food to grow while avoiding crashing into yourself. The game increases in difficulty as the snake grows.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/emlm244/microbitsnakegame** and import
+## Getting Started
 
-## Edit this project
+### Setting Up the Game
 
-To edit this repository in MakeCode.
+To start playing the `MicroBitSnakeGame` on your Micro:Bit, follow these steps:
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/emlm244/microbitsnakegame** and click import
+1. Connect your Micro:Bit to your computer.
+2. Download the code from this repository.
+3. Upload the code to your Micro:Bit using the Micro:Bit website or your preferred IDE.
 
-#### Metadata (used for search, rendering)
+### Game Controls
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+- **Button A**: Turn the snake left or up (double-press).
+- **Button B**: Turn the snake right or down (double-press).
+- **Buttons A + B**: Start the game.
+
+## Gameplay
+
+- Navigate the snake to eat food.
+- Each food item makes the snake longer.
+- Avoid crashing into the snake's body.
+- The game ends if you crash into yourself.
+- Aim for the highest score!
+
+## Contributing
+
+Your contributions to `MicroBitSnakeGame` are very welcome. Whether it's enhancing the game, fixing bugs, or improving the code, feel free to create a pull request or open an issue.
+
+---
+
+`MicroBitSnakeGame` is not affiliated with or endorsed by Micro:Bit or any related entities.
