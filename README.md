@@ -1,11 +1,3 @@
-# MicroBitSnakeGame
-
-Welcome to `MicroBitSnakeGame`, a classic snake game reimagined for the Micro:Bit. This project is perfect for those looking to combine the fun of gaming with the excitement of programming on a Micro:Bit.
-
-## Project Overview
-
-`MicroBitSnakeGame` challenges you to navigate a snake on the Micro:Bit screen, eating food to grow while avoiding crashing into yourself. The game increases in difficulty as the snake grows.
-
 ## Getting Started
 
 ### Setting Up the Game
@@ -29,10 +21,6 @@ To start playing the `MicroBitSnakeGame` on your Micro:Bit, follow these steps:
 - Avoid crashing into the snake's body.
 - The game ends if you crash into yourself.
 - Aim for the highest score!
-
-## Contributing
-
-Your contributions to `MicroBitSnakeGame` are very welcome. Whether it's enhancing the game, fixing bugs, or improving the code, feel free to create a pull request or open an issue.
 
 ---
 
