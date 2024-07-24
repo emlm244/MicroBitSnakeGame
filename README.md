@@ -2,8 +2,6 @@
 
 ### Setting Up the Game
 
-To start playing the `MicroBitSnakeGame` on your Micro:Bit, follow these steps:
-
 1. Connect your Micro:Bit to your computer.
 2. Download the code from this repository.
 3. Upload the code to your Micro:Bit using the Micro:Bit website or your preferred IDE.
